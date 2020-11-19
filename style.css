@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+}
+header{
+    border-bottom: 1px dotted powderblue;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    padding-top: 20px;
+    padding-left:0px;
+    border-right: 1px dotted powderblue;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+nav ol{
+    list-style: none;
+    padding-left: 10px;
+}
+article{
+    margin-left: 100px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+article h2{
+    margin:0px;
+    font-size: 20px;
+}
